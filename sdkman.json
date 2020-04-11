@@ -1,15 +1,15 @@
 {
-    "version": "0.4.10",
+    "version": "0.4.11",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/palindrom615/sdkman/releases/download/v0.4.10/sdkman_0.4.10_Windows_x86_64.zip",
+            "url": "https://github.com/palindrom615/sdkman/releases/download/v0.4.11/sdkman_0.4.11_Windows_x86_64.zip",
             "bin": [
                 "sdk.exe"
             ],
-            "hash": "0016b9b50cd683fd88fb3ca5f7d68aa8374b40aad3bf0d3361713f7379230df1"
+            "hash": "e7f0a658af44102bb875dced051b1da53d97017bce2f2740502c562865292a99"
         }
     },
     "homepage": "https://github.com/palindrom615/sdkman",
     "license": "Apache License 2.0",
-    "description": "tool for managing parallel versions of multiple Software Development Kits"
+    "description": "A tool for managing parallel versions of multiple Software Development Kits"
 }
