@@ -1,12 +1,12 @@
 {
-    "version": "0.4.13",
+    "version": "0.4.14",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/palindrom615/sdkman/releases/download/v0.4.13/sdkman_0.4.13_Windows_x86_64.zip",
+            "url": "https://github.com/palindrom615/sdkman/releases/download/v0.4.14/sdkman_0.4.14_Windows_x86_64.zip",
             "bin": [
                 "sdk.exe"
             ],
-            "hash": "f85e6d22e2ccf9191811346f3a15216bf5c26c6483f0b34c647e5ecb26c6bbbb"
+            "hash": "4fe98bed2de06e62618901814abefadcdd4d50bea76682a469fd1dbbf072e021"
         }
     },
     "homepage": "https://github.com/palindrom615/sdkman",
