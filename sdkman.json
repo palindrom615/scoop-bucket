@@ -6,14 +6,14 @@
             "bin": [
                 "sdk.exe"
             ],
-            "hash": "3c4905b30213ee805df48c1875aab410212f1858905e0a4e75ab07935dab1c29"
+            "hash": "2e0c70327687b06c996f9e7e1355cfaf2bba87805f85b4ca213bddab48d399d8"
         },
         "64bit": {
             "url": "https://github.com/palindrom615/sdkman/releases/download/v0.4.17/sdkman_0.4.17_Windows_x86_64.zip",
             "bin": [
                 "sdk.exe"
             ],
-            "hash": "c606aa12610b21686431caa58bec7d1de3b35aa5e175dd46cb81e03fb9d3137c"
+            "hash": "c82e8ae8ca314de3a1d8be7f4faad0b451b3edeee1622cffb5af4bdb1437ebe3"
         }
     },
     "homepage": "https://github.com/palindrom615/sdkman",
